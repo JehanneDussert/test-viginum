@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+requests
+beautifulsoup4
+sqlalchemy
+databases
+pydantic
+pytest
+selenium
