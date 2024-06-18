@@ -1,6 +1,9 @@
-# app-toolkit
+# test-viginum
 
-Basic frontend and backend for faster launch of new repositories.
+To run the project, open Docker & run
+```
+./setup.sh
+```
 
 ## Frontend
 
